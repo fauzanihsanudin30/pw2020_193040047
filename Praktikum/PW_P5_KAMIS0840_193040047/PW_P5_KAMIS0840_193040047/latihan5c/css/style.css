@@ -1,0 +1,21 @@
+body {
+    background-color: darkcyan;
+}
+img {
+    width: 200px;
+}
+.container{
+    background-color: darkgrey;
+    border : 3px solid black;
+    width: 220px;
+    padding-left: 5;
+    padding-bottom: 5;
+    padding-top: 5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+
+.tombol_kembali{
+    background-color: red;
+    ;
+}
